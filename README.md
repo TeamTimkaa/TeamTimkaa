@@ -6,4 +6,6 @@
 
 I like to play computer games and chill in the reading room (the only place with internet in the main building, and it's cozy)
 
-Okay, I gotta go, good luck!
+<div id="header" align="center">
+    <h1>Okay, I gotta go, good luck!</h1> 
+</div>
